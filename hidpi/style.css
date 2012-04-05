@@ -1,3 +1,11 @@
+.img-wrapper {
+	width:200px;
+}
+
+.img-wrapper img {
+	width:100%;
+}
+
 img {
 	display:inline;
 }
