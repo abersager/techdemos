@@ -11,10 +11,6 @@ body {
 	width:100%;
 }
 
-img {
-	display:inline;
-}
-
 .lodpi-indicator {
 	display:block;
 }
